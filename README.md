@@ -1,7 +1,6 @@
-<h2 align="center">
-Hello, nice to see you ! 👋
-</h2>
-
+<div align="center" >
+  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684345970/Purple_3d_Illustration_Startup_Business_LinkedIn_Banner_egy340.png" width="760" >
+</div>
 <table align="center">
   <tr>
     <td align="center">
@@ -27,7 +26,7 @@ Hello, nice to see you ! 👋
   </tr>
 </table>
 
-<div align="center">
+<div align="center" >
  
 #### My favorite front-end stack :
 
@@ -37,7 +36,12 @@ Hello, nice to see you ! 👋
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres)
 
 #### My languages stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Nourri&langs_count=5&theme=ayu-mirage&hide_title=true)](https://github.com/Jeremy-Nourri/github-readme-stats)
+  
+<a href="https://www.linkedin.com/in/jeremy-nourri">  
+  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684360719/linkedin_badge_nzqan5.png" align="center" width="300">
+</a>
 
 </div align="center">
 
