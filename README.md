@@ -28,20 +28,21 @@
 
 <div align="center" >
  
-#### My favorite front-end stack :
+  <h3> My favorite front-end stack :</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,gatsby)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,gatsby,redux)
 
-#### My favorite back-end stack :
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres)
-
-#### My languages stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Nourri&langs_count=5&theme=ayu-mirage&hide_title=true)](https://github.com/Jeremy-Nourri/github-readme-stats)
+  <h3> My favorite back-end stack : </h3>
   
-<a href="https://www.linkedin.com/in/jeremy-nourri">  
-  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684360719/linkedin_badge_nzqan5.png" align="center" width="300">
-</a>
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres)
+
+  <h3> My languages stats :  </h3>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Nourri&langs_count=5&theme=ayu-mirage&hide_title=true)](https://github.com/Jeremy-Nourri/github-readme-stats)
+  
+  <a href="https://www.linkedin.com/in/jeremy-nourri">  
+    <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684360719/linkedin_badge_nzqan5.png" align="center" width="300">
+  </a>
 
 </div align="center">
 
