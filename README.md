@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684345970/Purple_3d_Illustration_Startup_Business_LinkedIn_Banner_egy340.png" width="760" >
+  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1685553901/banner-github_b61k7u.png" width="760" >
 </div>
 <table align="center">
   <tr>
