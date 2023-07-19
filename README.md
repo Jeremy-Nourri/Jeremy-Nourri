@@ -9,10 +9,10 @@
     I dedicate to honing my skills and staying up-to-date with the latest technologies.
   </p>
   <p>
-    I'm always excited to collaborate with d'autres developers , designers and learn from each other.
+    I'm always excited to collaborate with developers, designers and learn from each other.
   </p>
   <p>
-    If you have a project in mind, a challenging problem to solve, or just want to chat about tech, feel free to reach out.
+    If you have a project in mind, a challenging problem to solve, or just want to chat about tech, feel free !
   </p>
   <p>
     Let's Connect!
