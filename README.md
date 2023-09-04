@@ -3,7 +3,7 @@
 </div>
 <div align="center" width="760" >
   <p>
-    I'm a full-stack developer with a focus on React and Node.js, hailing from the beautiful country of France 🇫🇷. 
+    I'm a full-stack developer with a focus on React/Next.js and Node.js, hailing from the beautiful country of France 🇫🇷. 
   </p>
   <p>
     I dedicate to honing my skills and staying up-to-date with the latest technologies.
@@ -26,7 +26,7 @@
  
   <h3> My favorite front-end stack :</h3>
 
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,gatsby,redux)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,next,redux)
 
   <h3> My favorite back-end stack : </h3>
   
