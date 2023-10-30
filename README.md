@@ -1,5 +1,5 @@
 <div align="center" width="760" >
-  <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1685553901/banner-github_b61k7u.png" width="760" >
+  <img src="https://res.cloudinary.com/developpement/image/upload/v1685553901/banner-github_b61k7u.png" width="760" >
 </div>
 <div align="center" width="760" >
   <p>
@@ -35,7 +35,7 @@
   <h3> My Linkedin profile :  </h3>
   
   <a href="https://www.linkedin.com/in/jeremy-nourri">  
-    <img src="https://res.cloudinary.com/dmjffwvns/image/upload/v1684360719/linkedin_badge_nzqan5.png" align="center" width="300">
+    <img src="https://res.cloudinary.com/developpement/image/upload/v1684360719/linkedin_badge_nzqan5.png" align="center" width="300">
   </a>
 
 </div align="center">
