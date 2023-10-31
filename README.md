@@ -1,22 +1,19 @@
-<div align="center" width="760" >
-  <img src="https://res.cloudinary.com/developpement/image/upload/v1685553901/banner-github_b61k7u.png" width="760" >
-</div>
-<div align="center" width="760" >
-  <p>
-    I'm a full-stack developer with a focus on React/Next.js and Node.js, hailing from the beautiful country of France 🇫🇷. 
-  </p>
-  <p>
+<div align="center" width="760">
+  <h3>
+    I'm a full-stack developer with a focus on React/Next.js and Node.js, from France 🇫🇷. 
+  </h3>
+  <h3>
     I dedicate to honing my skills and staying up-to-date with the latest technologies.
-  </p>
-  <p>
+  </h3>
+  <h3>
     I'm always excited to collaborate with developers, designers and learn from each other.
-  </p>
-  <p>
+  </h3>
+  <h3>
     If you have a project in mind, a challenging problem to solve, or just want to chat about tech, feel free !
-  </p>
-  <p>
+  </h3>
+  <h3>
     Let's Connect!
-  </p>
+  </h3>
 </div>
   
 
