@@ -1,21 +1,3 @@
-<div align="center" width="760">
-  <p>
-    I'm a full-stack developer with a focus on React/Next.js and Node.js, from France 🇫🇷. 
-  </p>
-  <p>
-    I dedicate to honing my skills and staying up-to-date with the latest technologies.
-  </p>
-  <p>
-    I'm always excited to collaborate with developers, designers and learn from each other.
-  </p>
-  <p>
-    If you have a project in mind, a challenging problem to solve, or just want to chat about tech, feel free !
-  </p>
-  <p>
-    Let's Connect!
-  </p>
-</div>
-
 <div align="center" >
  
   <h3> My favorite front-end stack :</h3>
