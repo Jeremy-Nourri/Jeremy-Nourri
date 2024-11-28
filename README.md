@@ -1,12 +1,4 @@
 <div align="center" >
- 
-  <h3> My favorite front-end stack :</h3>
-
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,next,redux)
-
-  <h3> My favorite back-end stack : </h3>
-  
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres)
 
   <h3> My Linkedin profile :  </h3>
   
